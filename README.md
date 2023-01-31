@@ -49,11 +49,15 @@
 
 
 
+
+
 <p align = "center">
 
  <img src="https://activity-graph.herokuapp.com/graph?username=LittleXingzzZ&theme=redical">
 
 </p> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LittleXingzzZ&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
