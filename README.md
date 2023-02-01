@@ -57,10 +57,19 @@
 
 </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LittleXingzzZ&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LittleXingzzZ&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> -->
+
+<p align="center">
+<a href="https://github.com/LittleXingzzZ/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LittleXingzzZ&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/LittleXingzzZ/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LittleXingzzZ&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
 </p>
 
 
