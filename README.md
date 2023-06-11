@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=radical" width="25%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=radical">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LittleXingzzZ&theme=radical" width="25%">
 </p>
 
