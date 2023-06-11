@@ -7,7 +7,7 @@
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=rogue&bg_color=141321&color=FF69B4&line=DB7093&point=FF1493&radius=12" width="100%">
 </p>
 
-<div>
+<div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=LittleXingzzZ">
 </div>
 
