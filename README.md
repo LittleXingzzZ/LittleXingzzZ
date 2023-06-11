@@ -5,7 +5,7 @@
 	<img src="https://raw.githubusercontent.com/LittleXingzzZ/LittleXingzzZ/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ">
 	<img src="https://github-profile-trophy.vercel.app/?username=LittleXingzzZ&column=-1">
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+	![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
@@ -58,21 +58,17 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/assets/images/icon.png" /></div>
-
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/LittleXingzzZ/LittleXingzzZ/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
 
 
