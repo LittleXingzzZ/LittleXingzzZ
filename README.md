@@ -68,7 +68,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a> -->
 <a href="https://github.com/LittleXingzzZ">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=default" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=default&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 </p>
 
