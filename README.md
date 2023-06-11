@@ -64,10 +64,10 @@
 </p> -->
 
 <p align="center">
-<a href="https://github.com/LittleXingzzZ/github-readme-activity-graph#gh-light-mode-only">
+<a href="https://github.com/LittleXingzzZ">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/LittleXingzzZ/github-readme-activity-graph#gh-dark-mode-only">
+<a href="https://github.com/LittleXingzzZ">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
