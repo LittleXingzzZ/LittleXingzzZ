@@ -1,13 +1,11 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LittleXingzzZ&theme=radical" width="42%">
-</p>
+<div align = "center">
+	<img src = "https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=radical">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LittleXingzzZ&theme=radical" width="42%">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=rogue&bg_color=141321&color=FF69B4&line=DB7093&point=FF1493&radius=12" width="100%">
+</div>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/LittleXingzzZ/LittleXingzzZ/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
 </div>
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=rogue&bg_color=141321&color=FF69B4&line=DB7093&point=FF1493&radius=12" width="100%">
-</p>
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ">
 </div>
