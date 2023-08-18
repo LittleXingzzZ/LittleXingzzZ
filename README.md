@@ -11,8 +11,4 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ">
 	<img src="https://github-profile-trophy.vercel.app/?username=LittleXingzzZ&column=-1">
 </div>
-<a href="https://github.com/LittleXingzzZ/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
-
-<a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
-
-</p> -->
+![](https://count.getloli.com/get/@BEPb.github.readme)
