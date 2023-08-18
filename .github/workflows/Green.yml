@@ -1,12 +1,11 @@
-# green
-name: ci
+name: Green
 
 on:
   push:
     branches:
       - main
-schedule-cron:
- - cron: "1,23,30,40 * * * *"
+  schedule:
+   - cron: "1,23,30,40 * * * *"
 
 jobs:
   autogreen:
