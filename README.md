@@ -2,15 +2,15 @@
 	<img src = "https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=radical">
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LittleXingzzZ&theme=radical" width="42%">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleXingzzZ&theme=rogue&bg_color=141321&color=FF69B4&line=DB7093&point=FF1493&radius=12" width="100%">
-	<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 	<img src="https://raw.githubusercontent.com/LittleXingzzZ/LittleXingzzZ/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ">
 	<img src="https://github-profile-trophy.vercel.app/?username=LittleXingzzZ&column=-1">
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
