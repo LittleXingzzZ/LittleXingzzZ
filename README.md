@@ -10,5 +10,5 @@
 	</picture>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleXingzzZ">
 	<img src="https://github-profile-trophy.vercel.app/?username=LittleXingzzZ&column=-1">
+	<img src="https://count.getloli.com/get/@BEPb.github.readme">
 </div>
-![](https://count.getloli.com/get/@BEPb.github.readme)
