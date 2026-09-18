@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 40 1200 150" role="img" aria-labelledby="t">
+  <title id="t">LittleXing</title>
+  <style>
+    .name { font: 600 108px -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; letter-spacing: -4px; fill: #F5F5F7; }
+    .base { fill: none; stroke: #3A3A3C; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+    .trace { fill: none; stroke: #2997FF; stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round;
+             stroke-dasharray: 110 890; stroke-dashoffset: 1000; animation: run 3.6s cubic-bezier(.45,0,.25,1) infinite; }
+    .dot { fill: #2997FF; animation: beat 3.6s ease-in-out infinite; transform-origin: 1180px 118px; }
+    @keyframes run { to { stroke-dashoffset: 0; } }
+    @keyframes beat { 0%, 70%, 100% { opacity: .35; } 85% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .trace, .dot { animation: none; } .trace { stroke-dasharray: none; } }
+  </style>
+  <text class="name" x="-4" y="150">LittleXing</text>
+  <path class="base" pathLength="1000" d="M700 118H900L914 96L930 150L950 48L970 140L982 118H1164"/>
+  <path class="trace" pathLength="1000" d="M700 118H900L914 96L930 150L950 48L970 140L982 118H1164"/>
+  <circle class="dot" cx="1180" cy="118" r="5"/>
+</svg>

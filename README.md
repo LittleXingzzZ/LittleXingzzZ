@@ -1,70 +1,31 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="LittleXing" />
+</picture>
 
-<br/>
-<br/>
-<br/>
+**Full-stack developer.** I build web products end to end — interfaces, backend services, and smart contracts.\
+Currently shipping [PulseGraph](https://github.com/LittleXingzzZ/pulsegraph-xlayer), pool vital signs for Uniswap v4 on X Layer.
 
-# LittleXingzzZ
+&nbsp;
 
-<p style="font-size: 18px; color: #666; margin-top: 20px;">
-  Full Stack Developer · Open Source Enthusiast
-</p>
+### Selected work
 
-<br/>
-<br/>
+**[PulseGraph](https://github.com/LittleXingzzZ/pulsegraph-xlayer)** &nbsp;<sub>Solidity · Uniswap v4 Hook · X Layer mainnet</sub>\
+Turns four hook callbacks into a single 0–100 pool-health signal, tracking dynamic fees, order-flow pressure, liquidity quality and early exits.
 
----
+<sub>[Live app ↗](https://littlexingzzz.github.io/pulsegraph-xlayer/) &nbsp;&nbsp; [Verified contract ↗](https://www.oklink.com/xlayer/address/0x0f307dc905592fbef047b8dddcc50f9415b286c0/contract)</sub>
 
-<br/>
-<br/>
+&nbsp;
 
-## Tech Stack
+### Stack
 
-<br/>
+**Frontend** &nbsp; TypeScript, React, Vue, Next.js, Astro\
+**Backend** &nbsp; Node.js, Go, Java, Python, MySQL, MongoDB\
+**On-chain** &nbsp; Solidity, Foundry, Uniswap v4\
+**Infra** &nbsp; Docker, Cloudflare, GitHub Actions
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs&theme=light&perline=6" />
+&nbsp;
 
-<br/>
+### Elsewhere
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,go,express,tailwind&theme=light&perline=6" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,vscode&theme=light&perline=6" />
-
-<br/>
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
-
-## GitHub Stats
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=LittleXingzzZ&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=666666&text_color=333333" />
-
-<br/>
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleXingzzZ&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
-
-<br/>
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-@LittleXingzzZ-181717?style=flat-square&logo=github)](https://github.com/LittleXingzzZ)
-
-<br/>
-<br/>
-<br/>
-
-</div>
+[X / Twitter](https://x.com/LittleXingzzZ) &nbsp;·&nbsp; [Repositories](https://github.com/LittleXingzzZ?tab=repositories)
